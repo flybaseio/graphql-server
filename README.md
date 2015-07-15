@@ -1,4 +1,4 @@
-# graphql-server
+# Graphql Server
 
 GraphQL server with Flybase.io and Node.js  
 
