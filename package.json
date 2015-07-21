@@ -4,9 +4,7 @@
   "description": "GraphQL server with Flybase) and Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node --harmony src/index.js",
-    "client": "node src/client/index.js",
-    "test": "NODE_ENV=test mocha --compilers js:babel/register --require co-mocha $(find src -name \"*.spec.js\")"
+    "start": "node --harmony src/index.js"
   },
   "author": "Flybase",
   "license": "ISC",
