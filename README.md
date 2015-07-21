@@ -1,4 +1,6 @@
-# Graphql Server
+# GraphQL Server
+
+**Please note, this is an very big work in progress as GraphQL gets finalized, we'll be refining this library to be more useful, currently it's for reference so you can see how GraphQL and Flybase.io integrate well together.**
 
 GraphQL server with Flybase.io and Node.js  
 
