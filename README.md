@@ -1,6 +1,6 @@
-# graphql-server
+# Graphql Server
 
-GraphQL server with Flybase and Node.js  
+GraphQL server with Flybase.io and Node.js  
 
 **Example GraphQL query:**
 ```
@@ -41,7 +41,7 @@ mutation updateUser($userId: String! $name: String!) {
 
 ## Used technologies
 
-* Flybase
+* Flybase.io
 * GraphQL
 * Node/IO.js
 * Babel
