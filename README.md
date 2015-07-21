@@ -59,12 +59,6 @@ npm install
 npm start
 
 ```
-
-### client
-```
-npm run client
-```
-
 ## How to test
 
 ```
